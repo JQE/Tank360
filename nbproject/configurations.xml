@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="79">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="lzx" root="lzx">
+      <df name="Debug">
+      </df>
+      <df name="Debug-Win32">
+      </df>
+      <df name="Debug-Xbox 360">
+      </df>
+      <df name="font">
+      </df>
+      <df name="posix">
+        <in>dirent.c</in>
+        <in>dirent.h</in>
+        <in>input.c</in>
+        <in>input.h</in>
+      </df>
+      <df name="shader">
+      </df>
+      <in>Console.cpp</in>
+      <in>Console.h</in>
+      <in>Draw.cpp</in>
+      <in>Draw.h</in>
+      <in>Font.cpp</in>
+      <in>Font.h</in>
+      <in>Utils.cpp</in>
+      <in>Utils.h</in>
+      <in>draw_shader.h</in>
+      <in>font_str.h</in>
+      <in>pnginfo.h</in>
+      <in>stdafx.cpp</in>
+      <in>stdafx.h</in>
+      <in>zlx.cpp</in>
+      <in>zlx.h</in>
+    </df>
+    <df name="source" root="source">
+      <in>Tank.cpp</in>
+      <in>Tank.h</in>
+      <in>Tools.cpp</in>
+      <in>Tools.h</in>
+      <in>main.cpp</in>
+      <in>main.h</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>source</Elem>
+    <Elem>lzx</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+          <cTool>
+            <incDir>
+              <pElem>lzx</pElem>
+              <pElem>source</pElem>
+              <pElem>libs/include</pElem>
+            </incDir>
+          </cTool>
+          <ccTool>
+            <incDir>
+              <pElem>lzx</pElem>
+              <pElem>source</pElem>
+              <pElem>/usr/local/xenon/usr/include</pElem>
+              <pElem>/usr/local/xenon/include</pElem>
+              <pElem>/opt/free60-git/free60/libxenon/include</pElem>
+            </incDir>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <folder path="source">
+        <cTool>
+          <incDir>
+            <pElem>lzx/posix</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>lzx/posix</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <item path="lzx/Console.cpp" ex="false" tool="1" flavor="0">
+        <ccTool>
+          <incDir>
+            <pElem>build</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="lzx/Draw.cpp" ex="false" tool="1" flavor="0">
+        <ccTool>
+          <incDir>
+            <pElem>build</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="lzx/Font.cpp" ex="false" tool="1" flavor="0">
+        <ccTool>
+          <incDir>
+            <pElem>build</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="lzx/Utils.cpp" ex="false" tool="1" flavor="0">
+      </item>
+      <item path="lzx/stdafx.cpp" ex="false" tool="1" flavor="0">
+      </item>
+      <item path="lzx/zlx.cpp" ex="false" tool="1" flavor="0">
+      </item>
+      <item path="source/Tank.cpp" ex="false" tool="1" flavor="0">
+      </item>
+      <item path="source/Tank.h" ex="false" tool="1" flavor="0">
+      </item>
+      <item path="source/Tools.cpp" ex="false" tool="1" flavor="0">
+      </item>
+      <item path="source/Tools.h" ex="false" tool="1" flavor="0">
+      </item>
+      <item path="source/main.cpp" ex="false" tool="1" flavor="0">
+      </item>
+      <item path="source/main.h" ex="false" tool="1" flavor="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

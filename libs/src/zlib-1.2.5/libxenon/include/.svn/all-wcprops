@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/inffast.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/crc32.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/inffixed.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/inftrees.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/zconf.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/zlib.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/trees.h
+END
+gzguts.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/gzguts.h
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/deflate.h
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/zlib-1.2.5/libxenon/include/zutil.h
+END

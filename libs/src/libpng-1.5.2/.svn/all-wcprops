@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2
+END
+pngstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngstruct.h
+END
+pngerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngerror.c
+END
+configure-xenon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/configure-xenon.sh
+END
+pngwtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngwtran.c
+END
+pngdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngdebug.h
+END
+libpng.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/libpng.pc.in
+END
+test-pngvalid-simple.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/test-pngvalid-simple.sh
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/Makefile.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/depcomp
+END
+test-pngvalid-full.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/test-pngvalid-full.sh
+END
+pngnow.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngnow.png
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/config.h
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/ltmain.sh
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/configure.ac
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/png.c
+END
+pngget.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngget.c
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/png.h
+END
+libpng.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/libpng.3
+END
+pngtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngtrans.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/Makefile
+END
+libpng-config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/libpng-config
+END
+pngwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngwrite.c
+END
+pngset.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngset.c
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/config.status
+END
+pngwutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngwutil.c
+END
+pngbar.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngbar.png
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/config.h.in
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/libtool
+END
+ANNOUNCE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/ANNOUNCE
+END
+pngpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngpriv.h
+END
+pngrtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngrtran.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/configure
+END
+pngvalid.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngvalid.c
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/config.log
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/config.sub
+END
+pngread.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngread.c
+END
+pngmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngmem.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/INSTALL
+END
+pngtest.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngtest.png
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/CHANGES
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/autogen.sh
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/example.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/CMakeLists.txt
+END
+pngrio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngrio.c
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngconf.h
+END
+pngpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngpread.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/LICENSE
+END
+libpng-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/libpng-config.in
+END
+pngwio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngwio.c
+END
+pngrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngrutil.c
+END
+pnginfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pnginfo.h
+END
+png.5
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/png.5
+END
+pngbar.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngbar.jpg
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/stamp-h1
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/README
+END
+libpngpf.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/libpngpf.3
+END
+libpng-manual.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/libpng-manual.txt
+END
+pngtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/pngtest.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/TODO
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/missing
+END
+test-pngtest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/test-pngtest.sh
+END
+libpng.pc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/libpng.pc
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1070/libxenon/lzx/libs/src/libpng-1.5.2/install-sh
+END
