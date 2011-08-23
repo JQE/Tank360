@@ -1,0 +1,25 @@
+This is going to get flushed out more.
+
+For now, i decided to work on creating an engine / game from scratch made in and from libxenon and lzx.
+
+Thanks to libxenon team.
+Thanks to Ced2911, Cancerous, Tuxuser for Libxenon / LZX / Encouragement
+Thanks to Blackwolf for the upcoming music
+Thanks to Mattie for the idea
+
+Thanks to STK50 for all you have done. Hope one day to work with you again.
+
+
+NOTE: I made a minor modification to LibXenon to make this work. I added a time() function to Libxenon\Drivers\Time\Time.h
+
+extern int time();
+
+and in libxenon\drivers\time\time.c
+
+int time() {
+  return (int)mftb();
+}
+
+This is to seed the random number generator.
+
+This is still very basic much more to come.
