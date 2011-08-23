@@ -1,122 +1,0 @@
-10
-
-dir
-1072
-http://svn.wata.fr/svn/libxenon/lzx/libs/src/zlib-1.2.5/contrib
-http://svn.wata.fr/svn
-
-
-
-2011-06-27T15:19:41.839613Z
-1070
-ced
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9362c5a9-1dbf-4d61-b3e7-426118727e64
-
-minizip
-dir
-
-iostream
-dir
-
-asm686
-dir
-
-ada
-dir
-
-infback9
-dir
-
-README.contrib
-file
-
-
-
-
-2011-06-27T17:51:47.099204Z
-fe1aa939bc61cde4afc0d1ea23b01ed5
-2011-06-27T15:19:41.839613Z
-1070
-ced
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3120
-
-vstudio
-dir
-
-masmx64
-dir
-
-inflate86
-dir
-
-puff
-dir
-
-testzlib
-dir
-
-masmx86
-dir
-
-pascal
-dir
-
-gcc_gvmat64
-dir
-
-iostream2
-dir
-
-delphi
-dir
-
-blast
-dir
-
-iostream3
-dir
-
-dotzlib
-dir
-
-untgz
-dir
-
-amd64
-dir
-
