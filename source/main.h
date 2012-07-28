@@ -18,16 +18,16 @@
 #include <xenos/xenos.h>
 
 #include <diskio/ata.h>
-#include <diskio/dvd.h>
 extern "C" {
 #include <input/input.h>
 }
 #include <console/console.h>
-#include <diskio/diskio.h>
+#include <diskio/disc_io.h>
 #include <usb/usbmain.h>
 #include <time/time.h>
 #include <xenon_soc/xenon_power.h>
 #include <xenon_smc/xenon_smc.h>
+#include <ppc/timebase.h>
 #else
 #include "posix\input.h"
 #endif

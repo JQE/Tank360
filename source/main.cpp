@@ -8,6 +8,10 @@
 #define MAX(a,b) (((a)>(b))?(a):(b))
 #define MIN(a,b) (((a)<(b))?(a):(b))
 #define CLAMP(x,low,high) {if(x<low)x=low;if(x>high)x=high;}
+
+int time() {
+  return (int)mftb();
+}
     
 
 void MyConsole::RenderApp() {
@@ -301,7 +305,7 @@ int main() {
     usb_init();
     usb_do_poll();
     xenon_ata_init();
-    dvd_init();
+    xenon_atapi_init();
     xenon_smc_start_bootanim();
 #endif
 
