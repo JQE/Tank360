@@ -1,9 +1,0 @@
-K 10
-svn:ignore
-V 44
-Debug
-Debug-Win32
-Debug-Xbox 360
-stdafx.pch
-
-END

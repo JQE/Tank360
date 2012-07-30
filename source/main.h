@@ -8,9 +8,9 @@
 #ifndef MAIN_H
 #define	MAIN_H
 
-#include "Console.h"
-#include "Draw.h"
-#include "Utils.h"
+#include <zlx/Console.h>
+#include <zlx/Draw.h>
+#include <zlx/Utils.h>
 
 #ifdef LIBXENON
 
