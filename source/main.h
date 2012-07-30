@@ -8,9 +8,10 @@
 #ifndef MAIN_H
 #define	MAIN_H
 
-#include "Console.h"
-#include "Draw.h"
-#include "Utils.h"
+#include <zlx/Console.h>
+#include <zlx/Draw.h>
+#include <zlx/Hw.h>
+#include <zlx/Utils.h>
 
 #ifdef LIBXENON
 
@@ -24,6 +25,7 @@ extern "C" {
 #include <console/console.h>
 #include <diskio/disc_io.h>
 #include <usb/usbmain.h>
+#include <elf/elf.h>
 #include <time/time.h>
 #include <xenon_soc/xenon_power.h>
 #include <xenon_smc/xenon_smc.h>
