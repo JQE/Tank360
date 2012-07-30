@@ -9,6 +9,8 @@
 #define MIN(a,b) (((a)<(b))?(a):(b))
 #define CLAMP(x,low,high) {if(x<low)x=low;if(x>high)x=high;}
 
+char rootpath[256] = {0};
+
 int time() {
   return (int)mftb();
 }
@@ -48,7 +50,7 @@ void MyConsole::RenderApp() {
     
 void MyConsole::Run() {
     Init();
-
+    
     // Disable auto render on format
     SetAutoRender(0);
     
@@ -155,10 +157,12 @@ void MyConsole::Update() {
 
 void MyConsole::Init() {
 
-    char *pngPath;
-    pngPath = (char*)malloc(256);
-    sprintf(pngPath, "uda:/ressources/tank.png");
-    Create("uda:/ressources/", 0xFF0000FF, 0xFFFFFF00);
+    char *pngPath = (char*)malloc(256);
+    char *ressourcesPath = (char*)malloc(256);
+    sprintf(ressourcesPath,"%s/ressources/",rootpath);
+    sprintf(pngPath, "%stank.png", ressourcesPath);
+    
+    Create(ressourcesPath, 0xFF0000FF, 0xFFFFFF00);
     LoadTextureFromFile(g_pVideoDevice, pngPath, &bg);
     srand(time());  
     P1.sCount = rand()%4;
@@ -300,17 +304,25 @@ void MyConsole::Alert(const char *message) {
 }
 
 MyConsole cApp;
-int main() {
+int main(int argc, char **argv) {
 #ifdef LIBXENON
-    usb_init();
+    xenos_init(VIDEO_MODE_AUTO);
+    Hw::SystemInit(INIT_USB|INIT_ATA|INIT_ATAPI|INIT_FILESYSTEM);
     usb_do_poll();
-    xenon_ata_init();
-    xenon_atapi_init();
+
     xenon_smc_start_bootanim();
+
 #endif
 
-    cApp.Run();
+    if(argc != 0 && argv[0]) {
+        char *tmp = argv_GetFilepath(argv[0]);
+        strcpy(rootpath,tmp);
+    } else {
+        strcpy(rootpath,"uda0:");
+    }
 
+    cApp.Run();
+    
     while (1) {
     }
 
